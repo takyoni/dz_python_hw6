@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+sales_big.csv
+hw6/sales_sample.csv
+hw6/orders.txt
